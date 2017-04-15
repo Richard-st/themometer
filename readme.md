@@ -1,7 +1,7 @@
-## Description
+##ESP8266 Thermometer
 
-ESP8266 Thermometer
+ESP8266 Themometer
 
-Dallas db18b20
+Wifi Setup Page
 
-x
+supports Dall ds18x20 termometer series
